@@ -10,6 +10,11 @@
 ### Microservices
 - https://github.com/kukuu/integration/blob/main/1-microservice-architecture.png
 
+### Digital Twin
+
+- V2 : https://github.com/kukuu/digital-twin-v2
+- V4 : https://github.com/kukuu/digital-twin-PV4-/blob/digi-twin-PV4-v1-data-generation/README.md
+
 ### Travel Booking
 
 - https://github.com/kukuu/integration/blob/main/system-design-low-level.md  
