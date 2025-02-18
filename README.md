@@ -13,3 +13,7 @@ The proposed architecture prioritises scalability, security, and performance to 
 ## Energy Sector 
 
 - https://github.com/kukuu/integration/blob/main/architecture-backend-energy-tasks.md
+
+## API Requests and Optimisation
+
+- https://github.com/kukuu/integration/blob/main/api-requests-optimisation.md
