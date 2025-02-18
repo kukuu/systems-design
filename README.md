@@ -20,3 +20,11 @@ The proposed architecture prioritises scalability, security, and performance to 
 
 ## Containerisation 
 - https://github.com/kukuu/integration/blob/main/containerisation.md
+
+## CyberSecurity
+
+- https://github.com/kukuu/integration/blob/main/cybersecurity.md
+
+## Exponential Backoff Strategy
+
+- https://github.com/kukuu/integration/blob/main/exponential-backoff.md
