@@ -17,3 +17,6 @@ The proposed architecture prioritises scalability, security, and performance to 
 ## API Requests and Optimisation
 
 - https://github.com/kukuu/integration/blob/main/api-requests-optimisation.md
+
+## Containerisation 
+- https://github.com/kukuu/integration/blob/main/containerisation.md
