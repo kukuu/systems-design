@@ -39,4 +39,7 @@
 ## API Design for Customer Billing or Account Management
 - https://github.com/kukuu/integration/blob/main/solution-steps-for-API-design-customer-billing-energy.md
 
+## Best practices and governance for developing software for investment and financial institutions
+- https://github.com/kukuu/fintech-open-banking-api/blob/main/banking-best-practices.md
+
 
